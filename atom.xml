@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>瞳介</title>
+  <title>Mbc&#39;s blog</title>
   
-  
+  <subtitle>鸡公煲很好吃</subtitle>
   <link href="https://16237846.github.io/atom.xml" rel="self"/>
   
   <link href="https://16237846.github.io/"/>
@@ -23,7 +23,7 @@
     <published>2020-10-07T07:04:58.599Z</published>
     <updated>2020-10-09T04:04:40.532Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">孟秉辰的blog</a>! </p><h3 id=""><a href="#" class="headerlink" title=""></a></h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;你nm来两拳&quot;</span></span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">孟秉辰的blog</a>! </p><h3 id=""><a href="#" class="headerlink" title=""></a></h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&quot;你nm来两拳&quot;</span></span><br></pre></td></tr></table></figure>]]></content>
     
     
       
