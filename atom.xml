@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Mbc&#39;s blog</title>
+  <title>瞳介&#39;s blog</title>
   
   <subtitle>鸡公煲很好吃</subtitle>
   <link href="https://16237846.github.io/atom.xml" rel="self"/>
   
   <link href="https://16237846.github.io/"/>
-  <updated>2020-10-10T16:06:41.793Z</updated>
+  <updated>2020-10-11T06:12:08.930Z</updated>
   <id>https://16237846.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new article</title>
+    <link href="https://16237846.github.io/2020/10/11/new-article/"/>
+    <id>https://16237846.github.io/2020/10/11/new-article/</id>
+    <published>2020-10-11T06:08:04.000Z</published>
+    <updated>2020-10-11T06:12:08.930Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2020/10/11/new-article/2.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2020/10/11/new-article/2.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>page</title>
@@ -56,13 +77,13 @@
     <published>2020-10-07T07:04:58.599Z</published>
     <updated>2020-10-10T16:27:51.371Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">孟秉辰的blog</a>! </p><h3 id=""><a href="#" class="headerlink" title=""></a></h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&quot;你nm来两拳&quot;</span></span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">孟秉辰的blog</a>! </p><h3 id><a href="#" class="headerlink" title></a></h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&quot;你nm来两拳&quot;</span></span><br></pre></td></tr></table></figure>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;孟秉辰的blog&lt;/a&gt;! &lt;/p&gt;
-&lt;h3 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;figure class=&quot;highli</summary>
+&lt;h3 id&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title&gt;&lt;/a&gt;&lt;/h3&gt;&lt;figure class=&quot;highlight ja</summary>
       
     
     
